@@ -95,7 +95,7 @@ import {
 	RGB_S3TC_DXT1_Format,
 	
 	UnsignedByteType
-} from 'three';
+} from "https://cdn.jsdelivr.net/gh/Siam456/FT_Filees@main/files/three.module.js";
 
 
 
