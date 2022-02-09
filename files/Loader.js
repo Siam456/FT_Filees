@@ -4348,7 +4348,7 @@ function toTrianglesDrawMode( geometry, drawMode ) {
 
 }
 
-import * as fflate from './fflate.module.js';
+import * as fflate from 'https://cdn.jsdelivr.net/gh/Siam456/FT_Filees@main/files/fflate.module.js';
 
 
 
