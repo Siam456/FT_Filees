@@ -2,6 +2,8 @@ import {
 	AnimationClip,
 	Curve,
 	Euler,
+	Vector4,
+	Uint16BufferAttribute,
 	MeshPhongMaterial,
 	Float32BufferAttribute,
 	Matrix3,
