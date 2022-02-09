@@ -3,7 +3,7 @@ import {
 	Vector3,
 	Vector4
 } from 'three';
-import * as NURBSUtils from './NURBSUtils.js';
+import * as NURBSUtils from 'https://cdn.jsdelivr.net/gh/Siam456/FT_Filees@main/files/NURBSUtils.js';
 
 /**
  * NURBS curve object
